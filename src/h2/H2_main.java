@@ -2,7 +2,7 @@ package h2;
 
 public class H2_main {
         public static void main(String[] args) {
-            int i = 2, j = 4, k = 3;
+            int i = -1, j = 4, k = -3;
             int min = i; // i ist der Startwert
             int max = i; // i ist der Startwert
 
