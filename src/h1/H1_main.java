@@ -8,5 +8,5 @@ public class H1_main {
             System.out.println(z - 10);
 
         }
-    }
+    } /
 }
